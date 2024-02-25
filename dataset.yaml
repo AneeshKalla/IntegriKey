@@ -1,0 +1,9 @@
+path : YOLO_training
+train: train  # directory of training images
+val: val  # directory of validation images
+
+# number of classes
+nc: 4
+
+# class names
+names: ['keyboard', 'trackpad', 'mouse', 'hand']
